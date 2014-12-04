@@ -10,7 +10,7 @@ GEM
       httpclient (>= 2.2.7)
       nesty
       sinatra (>= 1.2.7)
-    httpclient (2.4.0)
+    httpclient (2.5.3.3)
     multipart-post (2.0.0)
     nesty (1.0.2)
     rack (1.5.2)
